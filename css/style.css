@@ -204,7 +204,40 @@ h1, h2, h3, h4, h5, h6 {
 
 #main-nav .social i {
   color: #777;
-  margin-right: 0.5rem;
+  margin-right: 1rem;
+  padding: 5px;
+}
+
+#main-nav .social i.fa-facebook:hover {
+  background: #3b5998;
+  color: #fff;
+  border-radius: 50%;
+  border: none;
+  box-shadow: 2px 2px 5px #3b5998;
+}
+
+#main-nav .social i.fa-twitter:hover {
+  background: #fff;
+  color: #00acee;
+  border-radius: 50%;
+  border: none;
+  box-shadow: 2px 2px 5px #00acee;
+}
+
+#main-nav .social i.fa-instagram:hover {
+  background: #fff;
+  color: #E1306C;
+  border-radius: 50%;
+  border: none;
+  box-shadow: 2px 2px 5px #E1306C;
+}
+
+#main-nav .social i.fa-youtube:hover {
+  background: #fff;
+  color: #c4302b;
+  border-radius: 50%;
+  border: none;
+  box-shadow: 2px 2px 5px #c4302b;
 }
 
 /* Showcase */
